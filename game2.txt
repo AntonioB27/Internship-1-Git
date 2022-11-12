@@ -3,5 +3,6 @@ Lovre Tomic ima 0 pobjeda i 0 poraza
 
 o . x
 . o .
-x . x 
+x x o 
+
 
